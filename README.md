@@ -166,10 +166,8 @@ Executive Sales Overview
 
 Product & Geographic Performance
 
-
 Conclusion
 The 2022 Coca-Cola Sales & Profitability Analysis demonstrates the use of Power BI, Power Query, and DAX to analyze sales performance and profitability across products, regions, retailers, and time.
 The analysis shows that Coca-Cola was the strongest-performing beverage brand in the dataset, while Fanta recorded the lowest sales and operating profit. The West region led in sales and operating profit, while the Midwest recorded the highest operating margin.
 Overall, the project focuses on moving beyond simple reporting to identify performance patterns and translate those patterns into practical business questions and recommendations.
-
 
