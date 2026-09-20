@@ -23,7 +23,7 @@ The dataset was provided as an Excel workbook and prepared for analysis in Power
 Analysis period: January 2022 – December 2022
 Note: The dataset does not contain an Invoice ID or transaction ID. Therefore, transaction-level metrics were not calculated where a unique transaction identifier would be required.
 
-Dashboard
+## Dashboard
 The Power BI report contains two main pages.
 1. Executive Sales Overview
 The executive dashboard provides an overview of 2022 sales performance, including:
@@ -54,11 +54,11 @@ Geographic Performance
 ●	Profit by State
 ●	Sales by Region
 
-Tools & Technologies
-Microsoft Excel — Source data and initial data inspection
-Power Query — Data cleaning and preparation
-DAX — Measures and profitability calculations
-Microsoft Power BI — Data modeling, visualization, and dashboard development
+ ## Tools & Technologies
+**Microsoft Excel** — Source data and initial data inspection
+**Power Query** — Data cleaning and preparation
+**DAX** — Measures and profitability calculations
+**Microsoft Power BI** — Data modeling, visualization, and dashboard development
 
 Data Preparation
 The dataset was reviewed and prepared before building the Power BI dashboard.
